@@ -74,7 +74,8 @@
 
 #แบบฝึกหัด
 ให้วาดรูปวิว โดยใช้รูปร่างต่างๆ ที่ทำการทดลองใน Lab นี้
-
+![](https://github.com/pongsakorn194/LAB-10/blob/master/imgs/photo1.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-10/blob/master/imgs/photo2.png?raw=true)
 ##เอกสารอ้างอิง
 ### [Graphics Methods](https://msdn.microsoft.com/en-us/library/system.drawing.graphics_methods(v=vs.110).aspx)
 ### [System.Drawing Namespace](https://msdn.microsoft.com/en-us/library/system.drawing(v=vs.110).aspx)
