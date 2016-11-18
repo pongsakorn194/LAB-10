@@ -14,13 +14,17 @@
 <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-1.png">
 </p>
-
+![](https://github.com/pongsakorn194/LAB-10/blob/master/imgs/photo1.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-10/blob/master/imgs/photo1.1.png?raw=true)
 
 ## การวาดเส้นตรงด้วย pen style และ brush
 * [PenType Enumeration](https://msdn.microsoft.com/en-us/library/system.drawing.drawing2d.pentype(v=vs.110).aspx)
  <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-2.png">
 </p>
+![](https://github.com/pongsakorn194/LAB-10/blob/master/imgs/photo2.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-10/blob/master/imgs/photo2.1.png?raw=true)
+
 
 ## การกำหนดจุดปลายของเส้นตรงด้วย style แบบต่างๆ
 
@@ -28,6 +32,8 @@
 <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-3.png">
 </p>
+![](https://github.com/pongsakorn194/LAB-10/blob/master/imgs/photo3.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-10/blob/master/imgs/photo3.1.png?raw=true)
 
 
 ##การวาดเส้นโค้ง
@@ -35,21 +41,31 @@
 <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-4.png">
 </p>
+![](https://github.com/pongsakorn194/LAB-10/blob/master/imgs/photo4.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-10/blob/master/imgs/photo4.1.png?raw=true)
 
 ## การวาดเส้นโค้งด้วย Graphics path
  <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-5.png">
 </p> 
+![](https://github.com/pongsakorn194/LAB-10/blob/master/imgs/photo5.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-10/blob/master/imgs/photo5.1.png?raw=true)
+
 
 ## การวาดรูปทรงสี่เหลี่ยม
 ### การวาดสี่เหลี่ยมครั้งละรูปเดียว
   <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-6.png">
 </p> 
+![](https://github.com/pongsakorn194/LAB-10/blob/master/imgs/photo6.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-10/blob/master/imgs/photo6.1.png?raw=true)
+
 ###การวาดสี่เหลี่ยมพร้อมกันครั้งละหลายๆ รูป
   <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-7.png">
 </p> 
+![](https://github.com/pongsakorn194/LAB-10/blob/master/imgs/photo7.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-10/blob/master/imgs/photo7.1.png?raw=true)
 
 
 ## การวาดวงกลมและวงรี
@@ -57,25 +73,37 @@
    <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-8.png">
 </p> 
+![](https://github.com/pongsakorn194/LAB-10/blob/master/imgs/photo8.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-10/blob/master/imgs/photo8.1.png?raw=true)
 
 ## การวาดส่วนโค้ง (Arc)
    <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-9.png">
 </p> 
+![](https://github.com/pongsakorn194/LAB-10/blob/master/imgs/photo9.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-10/blob/master/imgs/photo9.1.png?raw=true)
+
 ## การวาดรูป Pie
   <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-10.png">
 </p>  
+![](https://github.com/pongsakorn194/LAB-10/blob/master/imgs/photo10.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-10/blob/master/imgs/photo10.1.png?raw=true)
+
 
 ## การสร้าง graphics path จากรูปต่างๆ 
   <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-11.png">
 </p>  
+![](https://github.com/pongsakorn194/LAB-10/blob/master/imgs/photo11.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-10/blob/master/imgs/photo11.1.png?raw=true)
+
 
 #แบบฝึกหัด
 ให้วาดรูปวิว โดยใช้รูปร่างต่างๆ ที่ทำการทดลองใน Lab นี้
-![](https://github.com/pongsakorn194/LAB-10/blob/master/imgs/photo1.png?raw=true)
-![](https://github.com/pongsakorn194/LAB-10/blob/master/imgs/photo2.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-10/blob/master/imgs/photo12.png?raw=true)
+![](https://github.com/pongsakorn194/LAB-10/blob/master/imgs/photo12.1.png?raw=true)
+
 ##เอกสารอ้างอิง
 ### [Graphics Methods](https://msdn.microsoft.com/en-us/library/system.drawing.graphics_methods(v=vs.110).aspx)
 ### [System.Drawing Namespace](https://msdn.microsoft.com/en-us/library/system.drawing(v=vs.110).aspx)
